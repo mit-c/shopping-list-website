@@ -1,4 +1,6 @@
-**Guide to set up**
+**Guide to set up backend**
+
+`cd` in each terminal to the backend folder.
 
 In one terminal type `mongod`.
 
@@ -13,3 +15,7 @@ In another new terminal type `nodemon server.js`
 
 * All the requests needed for database manipulation are in postman.
 * Click on the Shopping-list folder to open the variables.
+
+**Used as a guide:**
+
+https://medium.com/codingthesmartway-com-blog/the-mern-stack-tutorial-building-a-react-crud-application-from-start-to-finish-part-2-637f337e5d61
